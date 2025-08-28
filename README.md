@@ -18,13 +18,16 @@ Requirements:
 -OpenCV library (opencv-python)
 
 -Pillow library (Pillow)
+-Numpy
 
-- NumPy (numpy)
----
+
+
 Installation
+
 pip install opencv-python Pillow numpy
 
 Run
+
 python image_enhancer.py
 
 Usage Instructions:
