@@ -37,6 +37,6 @@ Usage Instructions:
 4.Click Save Image to save the processed image.
 
 Screenshots
-![original[(original.png)
+![original](original.png)
 
 ![new](gray.png)
